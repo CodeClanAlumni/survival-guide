@@ -1,7 +1,5 @@
 # Coding Resources
 
----
-
 ## Online coding tutorials
 
 * Codebar - https://codebar.io/
@@ -11,14 +9,13 @@
 * Khan Academy - https://www.khanacademy.org/
 * Treehouse (subscription based but excellent) - https://teamtreehouse.com/
 
----
-
 ## Ruby online resources
 
 ### Guides and Documentation
 
 * Ruby Documentation - https://ruby-doc.org/
 * Learn Ruby The Hard Way - https://learnrubythehardway.org/
+* Codecademy Ruby Tutorial - https://www.codecademy.com/learn/learn-ruby
 * Why's Poignant Guide To Ruby - https://poignant.guide/
 * Ruby Monk https://rubymonk.com/
 
@@ -34,4 +31,9 @@
 
 ### Guides and Documentation
 
-*
+* Rails Documentation - https://guides.rubyonrails.org/
+* Ruby on Rails Tutorial, Michael Hartl - https://www.railstutorial.org/book
+* Codecademy Rails Course - https://www.codecademy.com/learn/learn-rails
+* TutorialsPoint Rails Course - https://www.tutorialspoint.com/ruby-on-rails/
+
+*Note - I've found the Treehouse Rails track to be excellent, but it's paid for. You can get a week free before stumping up cash. Worth it! - Claire*
