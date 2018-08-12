@@ -36,4 +36,4 @@
 * Codecademy Rails Course - https://www.codecademy.com/learn/learn-rails
 * TutorialsPoint Rails Course - https://www.tutorialspoint.com/ruby-on-rails/
 
-*Note - I've found the (Treehouse Rails track)[https://teamtreehouse.com/tracks/rails-development] to be excellent, but it's paid for. You can get a week free before stumping up cash. Worth it! - Claire*
+*Note - I've found the [Treehouse Rails track](https://teamtreehouse.com/tracks/rails-development) to be excellent, but it's paid for. You can get a week free before stumping up cash. Worth it! - Claire*
