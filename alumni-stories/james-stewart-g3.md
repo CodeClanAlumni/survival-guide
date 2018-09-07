@@ -22,3 +22,5 @@ It's a great place to work. Classic startup material: free food and beer and wor
 ### Other stuff
 
 I did a contract for the World Bank and the Prince's Trust in the evenings during my first job, both in VueJS/Node.
+
+I've found that I've coded outside work a lot less since I started coding for a job. It's important to know that's totally normal. If you're coding 8-10 hours at work, not coding at home isn't going to damage your skills.
