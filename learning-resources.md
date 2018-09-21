@@ -7,9 +7,12 @@ As you can imagine, there is a huge amount of coding info online. The alumni hav
 * [Online Tutorials](#online-coding-tutorials)
 * [Blogs](#useful-and-interesting-tech-blogs)
 * [Podcasts](#podcasts-of-note)
+* [Computer Science](#computer-science)
 * [Just Generally Useful](#just-generally-useful)
 
 #### Language Specific
+* [Go](#go-online-resources)
+* [JavaScript](#javascript-online-resources)
 * [Ruby](#ruby-online-resources)
 * [Ruby on Rails](#rails-online-resources)
 * [SQL](#sql)
@@ -36,9 +39,23 @@ As you can imagine, there is a huge amount of coding info online. The alumni hav
 * Code Newbie - https://www.codenewbie.org/podcast
 * Greater than Code - http://www.greaterthancode.com/
 
+## Computer science
+* Crash course computer science - https://youtu.be/tpIctyqH29Q
+* Design patterns - https://sourcemaking.com/design_patterns
+
 ## Just generally useful
 
 * The Git book - https://git-scm.com/book/en/v2
+* How to level up as a Junior Dev - https://24ways.org/2017/levelling-up-for-junior-developers/
+
+## Go online resources
+
+* Learn Go with tests - https://quii.gitbook.io/learn-go-with-tests
+* A tour of Go - https://tour.golang.org/
+
+## JavaScript online resources
+
+* JSConf Videos - https://www.youtube.com/user/jsconfeu
 
 ## Ruby online resources
 
