@@ -12,6 +12,8 @@ Other community Slack channels include:
 
 * We All JS - https://wealljs.org/
 * Code Newbie - http://bit.ly/CodeNewbieSlack
+* Codebar - https://slack.codebar.io/
+* Elm - https://elmlang.herokuapp.com/
 
 ## Meetups and events
 
@@ -20,6 +22,14 @@ Other community Slack channels include:
 * [Diversity Tickets](https://diversitytickets.org/) lists events with free or discounted tickets for underrepresented folk to apply for - often conferences have discounted student rates as well
 * [Codebar](http://www.codebar.io/) runs programming workshops in Glasgow and Edinburgh - you could attend as either a student or a coach
 * [CodeYourFuture](https://codeyourfuture.io/) run programming courses for refugees, and are always looking for volunteers
+
+### Glasgow
+
+* [Ladies of Code](https://www.meetup.com/Ladies-of-Code-Glasgow/) - open to all with various talk/workshop formats
+* [Code Craft](https://www.codecraftuk.org/) - diverse topics for all levels
+* [GlaWebDev](http://www.glawebdev.com/) - informal gathering, coding together
+* [GlasgowJS](https://www.meetup.com/Glasgow-JavaScript/) - Javascript meetup
+* [Lean Agile Glasgow](https://www.meetup.com/Lean-Agile-Glasgow/) - all things Lean and Agile, regular Lean coffee mornings and evening meetups
 
 ## Twitter
 
@@ -44,6 +54,15 @@ Twitter has its ups and downs, but a lot of interesting people use it to share t
 * https://twitter.com/chiuki - Android, public speaking tips 
 * https://twitter.com/beep - responsive web design, tech ethics
 * https://twitter.com/patio11 - business and financial side of tech, also Japanese culture
+* https://twitter.com/dan_abramov - works on React js and is community-oriented
+* https://twitter.com/sophiebits - also works on React js, active LGBTQ advocate, community focused
+* https://twitter.com/sarahmei - big name in the Ruby world
+* https://twitter.com/sandimetz - another big name in Ruby
+* https://twitter.com/chrisalbon - data scientist and writer of machine learning
+* https://twitter.com/histoftech - technology historian
+* https://twitter.com/rtfeldman - author of Elm in Action
+* https://twitter.com/alicegoldfuss - coolest conference speaker, works at Github
+* https://twitter.com/mpjme - does great JS tutorials on youtube
 
 ## Get started with blogging or public speaking
 
