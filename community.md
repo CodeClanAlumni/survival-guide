@@ -1,5 +1,5 @@
 ---
-title: My page
+title: Community
 layout: default
 ---
 
