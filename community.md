@@ -1,12 +1,17 @@
+---
+title: My page
+layout: default
+---
+
 # Community
 
-Both while you're looking for your first job after CodeClan and once you've started it, getting involved in the developer community can be a great way to meet new people, learn new things and further your career. 
+Both while you're looking for your first job after CodeClan and once you've started it, getting involved in the developer community can be a great way to meet new people, learn new things and further your career.
 
-Some of us find it draining to go to lots of social events and speak to lots of new people, but there are many ways to stay involved - Chloe Condon's post [The Ambivert's Guide to Staying in Tech](https://www.coursereport.com/blog/the-ambivert-s-guide-to-staying-in-tech) has tips for extroverts, introverts, and those in between. 
+Some of us find it draining to go to lots of social events and speak to lots of new people, but there are many ways to stay involved - Chloe Condon's post [The Ambivert's Guide to Staying in Tech](https://www.coursereport.com/blog/the-ambivert-s-guide-to-staying-in-tech) has tips for extroverts, introverts, and those in between.
 
 ## Slack channels
 
-The most important Slack channel to join is the unofficial CodeClan Alumni chat. We try to add graduating students automatically, but if you have finished the course and haven't received an invite speak to one of your instructors. 
+The most important Slack channel to join is the unofficial CodeClan Alumni chat. We try to add graduating students automatically, but if you have finished the course and haven't received an invite speak to one of your instructors.
 
 Other community Slack channels include:
 
@@ -35,19 +40,19 @@ Twitter has its ups and downs, but a lot of interesting people use it to share t
 * https://twitter.com/vaidehijoshi - writes about computer science for beginners
 * https://twitter.com/ChloeCondon - developer evangelist and career changer from actress to tech
 * https://twitter.com/deefex - software testing
-* https://twitter.com/webdevlaw - tech ethics and tech law/policy specialist 
+* https://twitter.com/webdevlaw - tech ethics and tech law/policy specialist
 * https://twitter.com/BecomingDataSci - data science
 * https://twitter.com/jensimmons - CSS guru
 * https://twitter.com/sailorhg - zines about computers
 * https://twitter.com/lara_hogan - tech culture and management
 * https://twitter.com/b0rk - infrastructure and linux stuff for newbies
-* https://twitter.com/chiuki - Android, public speaking tips 
+* https://twitter.com/chiuki - Android, public speaking tips
 * https://twitter.com/beep - responsive web design, tech ethics
 * https://twitter.com/patio11 - business and financial side of tech, also Japanese culture
 
 ## Get started with blogging or public speaking
 
-Blogging or speaking at meetups or conferences are great ways to interact with the community and share your knowledge. 
+Blogging or speaking at meetups or conferences are great ways to interact with the community and share your knowledge.
 
 * [How to prepare a talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
 * [Tips for first time conference speakers](https://medium.com/@sophie.koonin/things-i-wish-id-known-tips-for-first-time-conference-speakers-ffa4ca438ea)
