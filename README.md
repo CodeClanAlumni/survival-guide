@@ -10,6 +10,8 @@ Collection of resources and tips for brand new alumni 📚🤓💪
 
 * [Getting a job (To do)](https://github.com/CodeClanAlumni/survival-guide/blob/master/getting-a-job.md)
 
+* [Jobs in tech] (https://github.com/CodeClanAlumni/survival-guide/blob/master/jobs-in-tech.md)
+
 * [Job Hunting (To do)](https://github.com/CodeClanAlumni/survival-guide/blob/master/while-job-hunting.md)
 
 * [Community](https://github.com/CodeClanAlumni/survival-guide/blob/master/community.md)
