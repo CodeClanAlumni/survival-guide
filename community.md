@@ -29,6 +29,7 @@ Other community Slack channels include:
 * [Code Craft](https://www.codecraftuk.org/) - diverse topics for all levels
 * [GlaWebDev](http://www.glawebdev.com/) - informal gathering, coding together
 * [GlasgowJS](https://www.meetup.com/Glasgow-JavaScript/) - Javascript meetup
+* [Lean Agile Glasgow](https://www.meetup.com/Lean-Agile-Glasgow/) - all things Lean and Agile, regular Lean coffee mornings and evening meetups
 
 ## Twitter
 
