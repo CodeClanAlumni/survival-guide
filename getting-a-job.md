@@ -4,14 +4,15 @@
 
 While you are job hunting and unemployed, maintaining a portfolio site which shows off your work can be a great way of keeping on top of continued coding practice and is an excellent way to show off what you can do to prospective employers.
 
-*[SkillCrush have a great guide on stuff you can put in there](https://skillcrush.com/2016/09/12/beginner-portfolio-guide/)
-*[FreeCodeCamp has some good examples here](https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
+[SkillCrush have a great guide on stuff you can put in there](https://skillcrush.com/2016/09/12/beginner-portfolio-guide/)
+
+[FreeCodeCamp has some good examples here](https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
 
 ## Your GitHub Profile
 
 It's worth sprucing up your GitHub page and pinning the repos you're most keen for employers to see. Every important repo should have a good readme.
-*[Here are some example awesome readmes](https://github.com/matiassingers/awesome-readme)
-*[Here is a good readme template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+[Here are some example awesome readmes](https://github.com/matiassingers/awesome-readme)
+[Here is a good readme template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 
 ## Salary
 
