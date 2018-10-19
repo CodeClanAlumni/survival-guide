@@ -1,3 +1,8 @@
+---
+title: James Stewart
+layout: default
+---
+
 ## Background
 
 Worked five years in politics - 3 for a Cabinet Minister in Westminster and 2.5 as a lobbyist for a charity. Only had experience in HTML/CSS coming into the course.
