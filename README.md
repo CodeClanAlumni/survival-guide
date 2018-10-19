@@ -21,8 +21,7 @@ $ bundle exec jekyll serve
 * Head to `localhost:4000` or `http://127.0.0.1:4000`
 
 
-
-
+## Jekyll Info
 
 ```markdown
 Syntax highlighted code block

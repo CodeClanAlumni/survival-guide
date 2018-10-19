@@ -1,3 +1,8 @@
+---
+title: Learning Resources
+layout: default
+---
+
 # Coding Resources
 
 As you can imagine, there is a huge amount of coding info online. The alumni have gathered some of their favourite resources, feel free to add your own.
