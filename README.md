@@ -3,7 +3,7 @@ Collection of resources and tips for brand new alumni 📚🤓💪
 
 ## Set-up
 
-* check you have ruby version 2.x.x or above
+* Check you have ruby version 2.x.x or above
 ```
 $ ruby --version
 ```
@@ -18,7 +18,7 @@ $ gem install Bundler
 $ bundle exec jekyll serve
 ```
 
-
+* Head to `localhost:4000` or `http://127.0.0.1:4000`
 
 
 
