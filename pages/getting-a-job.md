@@ -1,3 +1,8 @@
+---
+title: Getting a Job
+layout: default
+---
+
 # Getting a job
 
 ## Your Portfolio Site
@@ -22,4 +27,3 @@ And an ongoing open-source contribution of software developers salries from arou
 ## Your CV
 
 Your CV should be slightly tailored for each job you apply for. The best way of doing that is picking out key words from the job description and highlighting or repeating them back in your CV. For example, if it's a front end job based on JavaScript, make sure to emphasise the JS project you did at CodeClan and any other JS work you've done.
-

@@ -1,3 +1,8 @@
+---
+title: Kristie Yorkston
+layout: default
+---
+
 ## Background
 
 Degree in Archaeology from Edinburgh, only work experience was in the hospitality industry and knew very little about coding except for a Python book I had picked up a year before CodeClan.
