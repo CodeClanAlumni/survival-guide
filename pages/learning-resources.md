@@ -60,6 +60,9 @@ As you can imagine, there is a huge amount of coding info online. The alumni hav
 
 ## JavaScript online resources
 
+* The Modern JavaScript Tutorial - http://javascript.info/
+* JavaScript 30 - https://javascript30.com/
+* Eloquent JavaScript - https://eloquentjavascript.net/
 * JSConf Videos - https://www.youtube.com/user/jsconfeu
 
 ## Ruby online resources
