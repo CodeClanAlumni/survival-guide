@@ -94,6 +94,10 @@ Twitter has its ups and downs, but a lot of interesting people use it to share t
 * [base.cs](https://www.codenewbie.org/basecs) - teaches computer science topics, _actually_ makes it enjoyable
 * [Learn to Code with Me](https://learntocodewith.me/podcast/) - includes many people's journeys into the tech industry and basic survival guides for the industry
 * [Frontend Happy Hour](https://frontendhappyhour.com/) - [*warning* - includes alcohol consumption] - discusses fairly advanced topics in the frontend world
+* [The Cynical Developer](https://cynicaldeveloper.com/) - dev-based discussions on lots of topics, including technologies, languages, career skills, soft skills
+* [Weekly Dev Tips](http://www.weeklydevtips.com/) - short (~6min) episodes giving overviews of engineering topics
+* [The Changelog](https://changelog.com/podcasts) - a collection of podcasts, including on JavaScript, on start-up founders, Go, AI and lots more
+* See also [Podcasts of Note](https://codeclanalumni.github.io/survival-guide/pages/learning-resources#podcasts-of-note)
 
 ## Get started with blogging or public speaking
 
