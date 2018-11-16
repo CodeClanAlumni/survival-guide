@@ -10,7 +10,7 @@ $ ruby --version
 
 * Install the Bundler
 ```
-$ gem install Bundler
+$ gem install bundler
 ```
 
 * Run locally
