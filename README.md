@@ -10,7 +10,12 @@ $ ruby --version
 
 * Install the Bundler
 ```
-$ gem install Bundler
+$ gem install bundler
+```
+
+* Install the plugins ([Jekyll](https://jekyllrb.com/) and its dependencies)
+```
+$ bundle install
 ```
 
 * Run locally
