@@ -13,6 +13,11 @@ $ ruby --version
 $ gem install bundler
 ```
 
+* Install the plugins ([Jekyll](https://jekyllrb.com/) and its dependencies)
+```
+$ bundle install
+```
+
 * Run locally
 ```
 $ bundle exec jekyll serve
