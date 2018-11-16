@@ -90,7 +90,7 @@ Twitter has its ups and downs, but a lot of interesting people use it to share t
 * [Chiu-Ki Chan](https://twitter.com/chiuki) - Android, public speaking tips
 
 
-## Podcasts
+## Podcasts
 * [base.cs](https://www.codenewbie.org/basecs) - teaches computer science topics, _actually_ makes it enjoyable
 * [Learn to Code with Me](https://learntocodewith.me/podcast/) - includes many people's journeys into the tech industry and basic survival guides for the industry
 * [Frontend Happy Hour](https://frontendhappyhour.com/) - [*warning* - includes alcohol consumption] - discusses fairly advanced topics in the frontend world
