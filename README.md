@@ -1,6 +1,9 @@
 # survival-guide
 Collection of resources and tips for brand new alumni 📚🤓💪
 
+https://codeclanalumni.github.io/survival-guide
+
+
 ## Set-up
 
 * Check you have ruby version 2.x.x or above

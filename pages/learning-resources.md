@@ -43,8 +43,14 @@ As you can imagine, there is a huge amount of coding info online. The alumni hav
 
 ## Podcasts of note
 
-- [Code Newbie](https://www.codenewbie.org/podcast)
-- [Greater than Code](http://www.greaterthancode.com/)
+* [Code Newbie](https://www.codenewbie.org/podcast)
+* [Greater than Code](http://www.greaterthancode.com/)
+* [base.cs](https://www.codenewbie.org/basecs) - teaches computer science topics, _actually_ makes it enjoyable
+* [Learn to Code with Me](https://learntocodewith.me/podcast/) - includes many people's journeys into the tech industry and basic survival guides for the industry
+* [Frontend Happy Hour](https://frontendhappyhour.com/) - [*warning* - includes alcohol consumption] - discusses fairly advanced topics in the frontend world
+* [The Cynical Developer](https://cynicaldeveloper.com/) - dev-based discussions on lots of topics, including technologies, languages, career skills, soft skills
+* [Weekly Dev Tips](http://www.weeklydevtips.com/) - short (~6min) episodes giving overviews of engineering topics
+* [The Changelog](https://changelog.com/podcasts) - a collection of podcasts, including on JavaScript, on start-up founders, Go, AI and lots more
 
 ## Computer Science
 
