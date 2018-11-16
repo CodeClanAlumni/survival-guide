@@ -39,7 +39,7 @@ As you can imagine, there is a huge amount of coding info online. The alumni hav
 * Open Data Institute - https://theodi.org/knowledge-opinion/blog/
 * Information is Beautiful - https://informationisbeautiful.net/
 
-## Podcasts of note
+## [Podcasts of note](#podcasts-of-note)
 
 * Code Newbie - https://www.codenewbie.org/podcast
 * Greater than Code - http://www.greaterthancode.com/
