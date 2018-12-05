@@ -4,10 +4,14 @@ layout: default
 ---
 
 # Community
+{:.no_toc}
 
 Both while you're looking for your first job after CodeClan and once you've started it, getting involved in the developer community can be a great way to meet new people, learn new things and further your career.
 
 Some of us find it draining to go to lots of social events and speak to lots of new people, but there are many ways to stay involved - Chloe Condon's post [The Ambivert's Guide to Staying in Tech](https://www.coursereport.com/blog/the-ambivert-s-guide-to-staying-in-tech) has tips for extroverts, introverts, and those in between.
+
+- Table of Contents
+{:toc}
 
 ## Slack channels
 
